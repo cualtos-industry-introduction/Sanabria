@@ -1,6 +1,5 @@
 # Sanabria
-Pruebas de Git
-Pruebas para genrar codigo en GIT
-Todo esto es nuevo para los alumnos
 
-Los cambios en la documentacion es importante
+Estas lineas de código mostrarán le aplicación que se requiere para aprender el lenguaje.
+
+## Markdowm
